@@ -21,6 +21,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ### Changed
 
 - Improves tooltips on branches, remotes, and worktrees in views
+- Updates ESlint to v9 using flat config
 
 ### Fixed
 
